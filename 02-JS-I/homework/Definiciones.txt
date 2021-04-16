@@ -1,0 +1,26 @@
+Variables: Las variables con formas de guardar una serie de datos que serán traídos cuando llame a esa variable.
+Por ejemplo si a una variable que se llama "Miedad" le asigno el valor 27. Cada vez que llame a "Miedad" me trae el valor 27.
+Imaginemos que soy un médico que tengo un asistente. Este asistente es mi varibale. Mi asistente se llama variable.
+Yo le digo a mi asistente Sr. Variable que cada vez que le diga KITDEPRIMEROSAUXILIOS (ese sería el nombre) me 
+acerque un visturí, una gaza y guantes. Entonces ahora no le digo "che traeme el visturí, gazas y guantes" le digo "KITDEPRIMEROSAUXILIOS" 
+Y mi asistente o variable ya sabe lo que tiene que traer.
+
+
+String: es un dato que es un texto. Por eso va entre comillas. Y tiene caracteristicas de un dato que es un texto.
+Por ejemplo un texto no le puedo aplicar una operacion matematica. Tomas/Martin no da nada.
+Cuando en string aparece el signo + , en realidad se concatena. Significa que se unen formando una oracion.
+Cuando ponemos un string, pero es un numero, lo que le digo es. Tratá a este dato como letra.
+En este último caso "1"+"1" lo concatena, es decir que lo une en una oracion y no los suma. Te devuelve 11.
+
+Funciones: son formas de resolver cosas. Una funcion sería "sumar las edades", luego alguien sumará 10+12+13+25.
+Funcion sería la consigna de qué debe hacer.
+
+A la función se le agrega los argumentos. Si la funcion te dice, qué debes hacer, los argumentos sería con qué lo hago.
+Si la función te dice, suma las edades, los argumentos serían qué edades son. Es decir, los argumentos serían 13, 14, 15, etc.
+
+Return: Luego de tener la consigna, que sería la función, y los argumentos que sería los materiales con los cuales cumplo la consigna, tenemos el return que sería qué respuesta querés que te de con eso.
+Funcion: suma las edades. Bueno, qué edades Argumento: 12, 13, 14. Bueno y que querés que te responda con esto. Bueno decime el total. Return = total = 39.
+
+Valores booleanos: son valores que no son texto, ni número. Son valores que son verdades o falsos. Que puede ser una cosa u otra, nada más. 
+Puede ser un verdadero o un falso, un 0 o un 1, puede ser un sí o un no. Ante una afirmacion cerrada, la unica respuesta es verdad o falso.
+Por ejemplo: 2 mayor a 3. Tiene una única respuesta. Falso.
