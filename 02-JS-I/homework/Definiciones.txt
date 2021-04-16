@@ -24,3 +24,5 @@ Funcion: suma las edades. Bueno, qué edades Argumento: 12, 13, 14. Bueno y que 
 Valores booleanos: son valores que no son texto, ni número. Son valores que son verdades o falsos. Que puede ser una cosa u otra, nada más. 
 Puede ser un verdadero o un falso, un 0 o un 1, puede ser un sí o un no. Ante una afirmacion cerrada, la unica respuesta es verdad o falso.
 Por ejemplo: 2 mayor a 3. Tiene una única respuesta. Falso.
+
+Todo esto le diría a un chico de 12 años.
