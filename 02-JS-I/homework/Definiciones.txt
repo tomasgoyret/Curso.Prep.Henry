@@ -26,3 +26,5 @@ Puede ser un verdadero o un falso, un 0 o un 1, puede ser un sí o un no. Ante u
 Por ejemplo: 2 mayor a 3. Tiene una única respuesta. Falso.
 
 Todo esto le diría a un chico de 12 años.
+
+Nueva prueba
