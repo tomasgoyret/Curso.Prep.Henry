@@ -1,0 +1,16 @@
+for:
+es un comando que me ayuda a ejecutar funciones repetitivas indicandole cuando tiene que empezar, y cuando debe terminar.
+Sería el comando que me permite decirle a una funcio. Hace tal cosa con los estos numero y hasta este momento.
+
+&&:
+Es el comando que señala que las 2 condiciones se deben cumplir para que el resultado sea true. Si tan sólo una de las 2 no se cumple, arroja un false.
+Ejemplo: rubio && flaco, si es rubio && gordo, es true- si es morocho && flaco es falso.
+
+|| 
+
+Es el comando que señala las condiciones que se deben cumplir, por lo menos una. En ejemplo anterior sería, 
+es rubio || flaco: entonces se cumple si al menos una de las dos condiciones es verdadera. Se cumpliria para todos los rubios, para todos los flacos y para todos los rubios y flacos.
+
+!Not: Es la negación de algo. Arroja lo contrario. Lo NO VERDADERO, es falso. y ASÍ la negacion de lo NO verdadero es verdadero.
+En el ejempl anterior la condicion sería No tiene que ser un No RUBIO. Serviria tambine para dejar afuera a los rubios. Condicion: !rubio, es decir, morocho, castaño, pelirrojo, etc.
+
